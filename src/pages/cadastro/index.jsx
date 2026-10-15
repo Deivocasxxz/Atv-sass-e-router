@@ -1,4 +1,5 @@
 import './index.scss'
+import Cabecalho from '../../components/cabeçalho';
 
 import { Link } from 'react-router-dom';
 
@@ -35,7 +36,7 @@ export default function Cadastro() {
 
     return (
         <div className='pages-cadastro'>
-
+                <Cabecalho titulo="Exercicio Calculadora"/>
             <div className='part1'>
                 <div className='section'>
                     <img src="./assets/images/nike.png" className='logo1' alt="" />

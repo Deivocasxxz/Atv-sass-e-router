@@ -1,0 +1,62 @@
+.pag-cont{
+
+text-align: center;
+
+.co{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.aumentar{
+    background-color: rgb(68, 68, 230);
+    text-decoration: none;
+    padding: 7px 30px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px rgba(39, 39, 39, 0.555);
+    
+    
+}
+
+.diminuir{
+    background-color: red;
+    text-decoration: none;
+    padding: 7px;
+     padding: 7px 30px;
+     color: white;
+     border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px rgba(39, 39, 39, 0.555);
+
+    
+}
+
+.pt2{
+    
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+
+}
+
+.reset{
+     background-color: rgb(118, 228, 84);
+    text-decoration: none;
+    padding: 7px;
+     padding: 7px 30px;
+     color: white;
+     border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px rgba(39, 39, 39, 0.555);
+}
+
+.escreve{
+    padding: 10px;
+    width: 400px;
+}
+
+}
